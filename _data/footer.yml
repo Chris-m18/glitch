@@ -1,0 +1,20 @@
+# Footer configuration file
+##
+### param "social" - Social Links, icon class name you can find here https://ionicons.com/v2/
+### param "copy" - Copyright text
+
+main:
+  social:
+    # - title: "Dribbble"
+    #   icon: "social-dribbble"
+    #   url: "https://dribbble.com/"
+    - title: "Twitter"
+      icon: "social-twitter"
+      url: "https://twitter.com/chris_5001"
+    - title: "GitHub"
+      icon: "social-github"
+      url: "https://github.com/Chris-m18"
+    - title: "Linkedin"
+      icon: "social-linkedin"
+      url: "https://www.linkedin.com/in/christianrmatos/"
+  copy: "© 2021 Christian Matos. All rights reserved."
