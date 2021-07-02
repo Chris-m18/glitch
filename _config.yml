@@ -21,7 +21,7 @@
 # basic settings
 title: "CM"
 email: cmatos5001@gmail.com
-description: "Lets take a look!"
+description: "Let's take a look!"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
