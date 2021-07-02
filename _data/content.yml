@@ -166,7 +166,7 @@ services:
       # name: "Awesome Supports"
       # text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
 
-    - icon: "social-react"
+
       # name: "Web Development"
       # text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
 
