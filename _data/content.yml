@@ -144,7 +144,7 @@ about:
 #           value: "" #0-100 progress in %
 
 ### Services [ services ]
-services:
+'''services:
   title: "My Skills"
   items:
     - icon: "social-html5"
@@ -163,7 +163,7 @@ services:
       # name: "Programming"
       # text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
 
-    - icon: "social-css3"
+    - icon: "social-css3"''
       # name: "Awesome Supports"
       # text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
 
