@@ -6,7 +6,7 @@
 ### About [ about ]
 about:
   title: "About Me"
-  image: "assets/img/chris (1).jpg"
+  image: "assets/img/chris.png"
   text: "
         <p>
           <strong>Hello!</strong><br>I'm a results-driven, self-starter and technically-inclined individual seeking software and solutions engineer position across a fast-paced organization to efficiently leverage strong knowledge of multiple software tools along with delivering technical support to resolve complex issues. Skilled at creating and heading implementation of innovative platform strategies, developing high-traffic gaming solutions, and ensuring data optimization for applications to drive efficiency in system performance. Possess in-depth working knowledge of web application development. Well versed in identifying clients’ business requirements as well as supporting deployment of device management, collaboration, and end user computing solutions. Articulate communicator with ability to cultivate strong professional relationships with customers to drive organizational growth and establish strategic alliances via cross-functional collaborations. 
@@ -34,7 +34,7 @@ about:
 
   download:
     text: "Download CV"
-    link: "https://docdro.id/MONv5vd"
+    link: "https://docdro.id/WjSGpZY"
 
 ### Resume [ resume ]
 # resume:
@@ -144,9 +144,9 @@ about:
 #           value: "" #0-100 progress in %
 
 ### Services [ services ]
-'''services:
-  title: "My Skills"
-  items:
+#services:
+ # title: "My Skills"
+  #items:
     - icon: "social-html5"
       # name: "Front-end"
       # text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
